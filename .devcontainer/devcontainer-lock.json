@@ -1,0 +1,9 @@
+{
+  "features": {
+    "ghcr.io/devcontainer-community/devcontainer-features/cmake.org:1": {
+      "version": "1.0.2",
+      "resolved": "ghcr.io/devcontainer-community/devcontainer-features/cmake.org@sha256:3f498a612eb69d006535cbe49bc7344108a7106e116cc85123d5e7bfcbe79a6e",
+      "integrity": "sha256:3f498a612eb69d006535cbe49bc7344108a7106e116cc85123d5e7bfcbe79a6e"
+    }
+  }
+}
